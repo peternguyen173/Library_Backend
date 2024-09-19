@@ -13,6 +13,7 @@ java -version
 Kiểm tra phiên bản Maven:
 
 mvn -version
+
 Nếu mọi thứ đã được cài đặt đúng cách, bạn sẽ thấy thông tin về phiên bản của JDK và Maven trong terminal, nếu không thấy thì hãy thử cài đặt lại.
 (Hướng dẫn cài maven:https://maven.apache.org/install.html.
 
