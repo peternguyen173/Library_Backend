@@ -15,7 +15,7 @@ Bước 3: Điều hướng đến thư mục dự án
 Mở terminal (hoặc command prompt) và chuyển vào thư mục mà bạn vừa giải nén (dùng lệnh cd hoặc open in terminal)
 
 Bước 4: Cài đặt các phụ thuộc
-Sử dụng Maven để cài đặt các phụ thuộc cần thiết cho dự án
+Sử dụng Maven để cài đặt các phụ thuộc cần thiết cho dự án,
 file application.properties đã có sẵn
 
 Bước 5: Chạy ứng dụng
