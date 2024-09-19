@@ -1,4 +1,4 @@
-Tổng quan: Đây là phần backend cho ứng dụng quản lý thư viện Library, phần database đã được deploy trên Render, file cấu hình application.properties đã có sẵn ở đây.
+Tổng quan: Đây là phần backend cho ứng dụng quản lý thư viện Library, Database đã được deploy trên Render, file cấu hình application.properties đã có sẵn ở đây.
 
 Hướng dẫn cài đặt
 Bước 1:
