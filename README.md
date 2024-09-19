@@ -1,6 +1,7 @@
 Tổng quan: Đây là phần backend viết bằng Java Spring Boot cho ứng dụng quản lý thư viện Library, Database đã được deploy trên Render, file cấu hình application.properties đã có sẵn ở đây.
 
-Hướng dẫn cài đặt
+Hướng dẫn cài đặt:
+
 Bước 1:
 Java Development Kit (JDK) 21:  tải JDK từ trang chính thức của Oracle hoặc Adoptium.
 Maven: tải Maven từ trang chính thức của Apache Maven.
@@ -41,3 +42,5 @@ mvn spring-boot:run
 
 Bước 6: Kiểm tra ứng dụng
 Mở trình duyệt và truy cập vào địa chỉ http://localhost:8080 (hoặc cổng mà bạn đã cấu hình) để kiểm tra xem ứng dụng có đang chạy không.
+
+## Bạn cũng có thể cài đặt và chạy ứng dụng bằng các IDE đã có Maven
