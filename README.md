@@ -5,6 +5,16 @@ Bước 1:
 Java Development Kit (JDK) 21:  tải JDK từ trang chính thức của Oracle hoặc Adoptium.
 Maven: tải Maven từ trang chính thức của Apache Maven.
 
+=Sau khi cài đặt, kiểm tra phiên bản của JDK và Maven bằng các lệnh sau trong terminal (hoặc command prompt):
+
+Kiểm tra phiên bản JDK:
+java -version
+
+Kiểm tra phiên bản Maven:
+
+mvn -version
+Nếu mọi thứ đã được cài đặt đúng cách, bạn sẽ thấy thông tin về phiên bản của JDK và Maven trong terminal, nếu không thấy thì hãy thử cài đặt lại.
+
 Bước 2: Tải mã nguồn từ GitHub
 Truy cập vào repo trên Github
 Tìm nút "Code" (thường là một nút xanh) và nhấn vào đó.
