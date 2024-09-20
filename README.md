@@ -31,10 +31,11 @@ Mở terminal (hoặc command prompt) và chuyển vào thư mục mà bạn v�
 
 Bước 4: Cài đặt các phụ thuộc
 Sử dụng Maven để cài đặt các phụ thuộc cần thiết cho dự án, chạy lệnh:
+
 mvn clean install 
 
 
-file application.properties đã có sẵn
+file cấu hình application.properties đã có sẵn
 
 Bước 5: Chạy ứng dụng
 Sau khi hoàn tất cài đặt, bạn có thể chạy ứng dụng bằng lệnh:
