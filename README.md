@@ -39,6 +39,7 @@ file cấu hình application.properties đã có sẵn
 
 Bước 5: Chạy ứng dụng
 Sau khi hoàn tất cài đặt, bạn có thể chạy ứng dụng bằng lệnh:
+
 mvn spring-boot:run
 
 Bước 6: Kiểm tra ứng dụng
