@@ -9,6 +9,7 @@ Maven: tải Maven từ trang chính thức của Apache Maven.
 Sau khi cài đặt, kiểm tra phiên bản của JDK và Maven bằng các lệnh sau trong terminal (hoặc command prompt):
 
 Kiểm tra phiên bản JDK:
+
 java -version
 
 Kiểm tra phiên bản Maven:
